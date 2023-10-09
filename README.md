@@ -1,8 +1,8 @@
-![Web Developer](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/283526087_549070603253288_638082872627100299_n.jpg?stp=dst-jpg_p960x960&_nc_cat=109&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGZfXYtyr6bBaW_BsvBC61V-IMiF6FBjA74gyIXoUGMDh-fVXv6oVs-kBjwtgKibXX2bM0tqWYbokwQ7i-ny9f-&_nc_ohc=X2Gazhkied0AX-peHd7&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfBs-qXNLpH7ePjx2nCUCFowTNmtK_czNp98Pk0VDMtI-w&oe=65291348)
+![Web Developer](https://pbs.twimg.com/profile_banners/1710996841473683456/1696768894/600x200)
 
 ### Hi there 👋, I'm M Saju Hossen
 #### Web Developer
-
+![Web Developer](https://pbs.twimg.com/profile_banners/1710996841473683456/1696768894/600x200)
 
 I'm a Font End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain execellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include  JavaScript , Bootstrap as well as PHP.
 
